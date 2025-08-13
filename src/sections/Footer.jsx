@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 
 import DoubleArrow from "../assets/double-arrow.svg"
 import FaceBookIconFooter from "../assets/facebook-footer.svg";
-import LinkedInIconFooter from "../assets/linkedin-footer.svg";
+import LinkedInIconFooter from "../assets/linkedIn-footer.svg";
 import InstaIconFooter from "../assets/insta-footer.svg";
 import MailIconFooter from "../assets/mail-footer.svg";
 
